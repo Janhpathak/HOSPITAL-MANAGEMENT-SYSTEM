@@ -1,3 +1,5 @@
+# Hospital Management System (Java & MySQL)
+
 ## Overview
 
 The **Hospital Management System** is a simple command-line application designed to manage patients, doctors, and appointments using Java and MySQL. It demonstrates basic CRUD operations, database connectivity, and interaction between Java and MySQL. This project serves as a learning tool for understanding the integration of Java with MySQL.
@@ -131,17 +133,3 @@ The **Hospital Management System** is a simple command-line application designed
 - Implement advanced appointment scheduling features.
 
 ---
-
-## Acknowledgments
-
-This project was inspired by the YouTube tutorial:  
-**[Java Project 🚀 - Hospital 🏥Management System | Java Project For Beginners 🔥🔥](https://youtu.be/ECoIdyfcObE?si=oypztz6MVyRQnCta)**  
-by, **[Indial Progammer](https://www.youtube.com/@indianprogrammer0001)**  
-
-While the video provided the foundational concepts, I have made significant customizations and enhancements to suit my learning objectives and extend its functionality.
-
----
-
-## Author
-
-This project was developed as a learning exercise to understand Java and MySQL integration.
